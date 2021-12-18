@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding:4px;
+}
+
+
+body{
+    margin:2px;
+    padding:2%;
+}
+
+h1{
+text-align: center;
+padding-top:5%;
+}
+.search{
+    background-color:blue;
+    text-decoration: none;
+    color:white;
+    margin:auto;
+    border-radius:10px;
+ }
+
+.text-center{
+    color:white;
+}
+
+.card-group{
+    size: 10rem;
+    padding-left:10%;
+    padding-right:10%;
+    padding-top:2%;
+    padding-bottom:5%;
+}
+   
+    
+.nav-link:hover{
+    text-decoration: underline;
+    
+ }
+.but{ 
+    background-color:black;
+    color:white;
+    padding:2%;
+    position:relative;
+    left:35%;  
+ }
+ .sizes{
+padding-top:1%;
+padding-bottom:2%;
+ }
+ .but:hover{ 
+    text-decoration: underline;
+}
